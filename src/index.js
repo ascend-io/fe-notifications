@@ -1,8 +1,13 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
-import reportWebVitals from './reportWebVitals';
+
+/*
+  This section uses React
+ */
+
+// import App from './Prototype/App';
+import App from './WithReact/App';
 
 ReactDOM.render(
   <React.StrictMode>
@@ -11,7 +16,6 @@ ReactDOM.render(
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
+/*
+  To write vanilla JS, edit index.html, add a link to a script file under /public, and start working!
+ */
