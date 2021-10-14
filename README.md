@@ -11,7 +11,7 @@ In this exercise, you'll be tasked to build a small app:
 - Each notification contains an inspiring note, and after 5 seconds, automatically disappears
 - A user may dismiss a notification before it disappears, by clicking "x"
 - Add a button to remove all notifications at once
-- When user has mouse hovering on a notification, stop the countdown and keep it present
+- When user has mouse hovering on a notification, stop the countdown and keep it present; When mouse leaves the notification, resume the countdown.
 
 ## Bonus!
 - Make the app prettier
