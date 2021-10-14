@@ -14,4 +14,5 @@ In this exercise, you'll be tasked to build a small app:
 ## Bonus!
 - Make the app prettier
 - Display a progress bar to show how soon the notification will disappear
+- Add a button to remove all notifications at once
 - Anything else you can think of!
