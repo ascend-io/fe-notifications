@@ -10,6 +10,7 @@ In this exercise, you'll be tasked to build a small app:
 - Upon button click, display a notification in the left part of the screen
 - Each notification contains an inspiring note, and after 5 seconds, automatically disappears
 - A user may dismiss a notification before it disappears, by clicking "x"
+- When user has mouse hovers on a notification, stop the countdown and keep it present
 
 ## Bonus!
 - Make the app prettier
